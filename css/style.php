@@ -4,5 +4,8 @@ echo '
 b{
   color: green;
 }
+font{
+  color: #a64dff;
+}
 </style>
 ';

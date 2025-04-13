@@ -1,12 +1,12 @@
 <?php
 class CafeteiraPadrao{
   public function preparar(){
-    return 'Fazendo <b>café</b>.\n<br>';
+    return 'Fazendo <font><strong>café</strong></font>.<br>';
   }
 }
 class CafeteiraChique{
   public function preparar(){
-    return 'Preparando um <b>belo café</b> pra você.\n<br>';
+    return 'Preparando um <b>belo café</b> pra você.<br>';
   }
 }
 function fazercafe($cafeteira = new CafeteiraPadrao()){
