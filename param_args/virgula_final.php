@@ -6,4 +6,4 @@ function my_media($nota1, $nota2, $nota3, $nota4, ) {
   $media = $soma / $dividendo;
   return 'Média = '.$media;
 }
-echo my_media(6.5, 5.8, 10, 10);
+echo my_media(7, 7.0, 7, 7);
