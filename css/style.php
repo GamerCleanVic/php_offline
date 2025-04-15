@@ -2,7 +2,7 @@
 echo '
 <style>
 b{
-  color: green;
+  color: #ff3385;
 }
 font{
   color: #a64dff;
