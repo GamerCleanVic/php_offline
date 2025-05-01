@@ -1,3 +1,3 @@
 <?php
 include_once 'css/style.php';
-include_once 'fn_variable/var_method.php';
+include_once 'fn_variable/var_method_static.php';
