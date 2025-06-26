@@ -1,10 +1,10 @@
 <?php
 Class Foo{
   static function bar(){
-    echo "bar\n<br>";
+    echo "<font>bar</font>\n<br>";
   }
   function baz(){
-    echo "baz\n<br>";
+    echo "<b>baz</b>\n<br>";
   }
 }
 
